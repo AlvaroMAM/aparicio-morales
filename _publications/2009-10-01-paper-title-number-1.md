@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Minimizing Deployment Cost of Hybrid Applications"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-09-20-minimizingdeploymentcostsofhybridapplications
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-09-20
+venue: 'IEEE Quantum Week - QSET'
+paperurl: '[https://ieeexplore.ieee.org/document/10313627](https://ieeexplore.ieee.org/document/10313627)'
+citation: 'Á. M. Aparicio-Morales, J. L. Herrera, E. Moguel, J. Berrocal, J. Garcia-Alonso and J. M. Murillo, "Minimizing Deployment Cost of Hybrid Applications," 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), Bellevue, WA, USA, 2023, pp. 191-194, doi: 10.1109/QCE57702.2023.10209.
+keywords: {Quantum computing;Costs;Microservice architectures;Computer architecture;Logic gates;Software engineering;Quantum;Software Engineering;Cost Minimizer}'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
