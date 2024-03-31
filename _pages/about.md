@@ -12,4 +12,4 @@ I love facing new problems and challenges to make progress of humanity. I'm a tr
 
 Let's surf the Quantum Wave !! 
 
-<img title="Quantum Computing" alt="Quantum computing image inside a library" src="/images/about_me.jpeg">
+<img title="Quantum Computing" alt="Quantum computing image inside a library" src="/images/personal_profile.png">
