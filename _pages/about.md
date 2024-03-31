@@ -12,4 +12,4 @@ I love facing new problems and challenges to make progress of humanity. I'm a tr
 
 Let's surf the Quantum Wave !! 
 
-
+<img title="a title" alt="Alt text" src="/images/personal_profile.png">
