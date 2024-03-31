@@ -11,5 +11,3 @@ I'm a Researcher at Univesity of Extremadura in the Quercus Software Engineering
 I love facing new problems and challenges to make progress of humanity. I'm a truthly believer of the world improvement by technology but always with an ethical human perspective.
 
 Let's surf the Quantum Wave !! 
-
-<img title="Quantum Computing" alt="Quantum computing image inside a library" src="/images/personal_profile.png">
