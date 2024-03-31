@@ -21,7 +21,7 @@ repository               : "https://github.com/AlvaroMAM/personal-page/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_profile.png"
   name             : "Álvaro M. Aparicio-Morales"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at University of Extremadura in Quercus Software Engineering Group. Department of Informatics Systems and Telematics Engineering"
