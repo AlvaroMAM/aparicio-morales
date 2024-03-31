@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=GxP4TXMAAAAJ&hl=es"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-5161-5498"
-  pubmed           : ""
+  pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Alvaro-Aparicio-Morales"
 
   # Repositories and software development
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/AlvaroApaMor"  # Replace this with your X / Twitter handle
+  twitter          : "AlvaroApaMor"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
