@@ -11,10 +11,10 @@ locale                   : "es-ES"
 title                    : "Álvaro M. Aparicio-Morales"
 title_separator          : "-"
 name                     : &name "Álvaro Manuel Aparicio Morales"
-description              : &description "personal description"
+description              : &description "Researcher at University of Extremadura in Quercus Software Engineering Group. Department of Informatics Systems and Telematics Engineering"
 url                      : https://alvaromam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/personal-page" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/AlvaroMAM/personal-page/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
