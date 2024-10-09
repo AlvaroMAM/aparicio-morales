@@ -11,7 +11,7 @@ locale                   : "es-ES"
 title                    : "Álvaro M. Aparicio-Morales"
 title_separator          : "-"
 name                     : &name "Álvaro Manuel Aparicio Morales"
-description              : &description "Researcher at University of Extremadura in Quercus Software Engineering Group. Department of Informatics Systems and Telematics Engineering"
+description              : &description "Researcher at UEX in Quercus-SEG"
 url                      : https://alvaromam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/personal-page" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/AlvaroMAM"
@@ -24,7 +24,8 @@ author:
   avatar           : "personal_profile.png"
   name             : "Álvaro M. Aparicio-Morales"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher at University of Extremadura in Quercus Software Engineering Group. Department of Informatics Systems and Telematics Engineering"
+  bio              : "Researcher at University of Extremadura in Quercus Software Engineering Group. 
+  Department of Informatics Systems and Telematics Engineering"
   location         : "Earth"
   employer         : "University of Extremadura"
   uri              : # URL
